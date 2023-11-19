@@ -1,0 +1,14 @@
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDRanges\bin\Debug\net6.0\ANDRanges.exe
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDRanges\bin\Debug\net6.0\ANDRanges.deps.json
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDRanges\bin\Debug\net6.0\ANDRanges.runtimeconfig.json
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDRanges\bin\Debug\net6.0\ANDRanges.dll
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDRanges\bin\Debug\net6.0\ANDRanges.pdb
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDRanges\obj\Debug\net6.0\ANDRanges.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDRanges\obj\Debug\net6.0\ANDRanges.AssemblyInfoInputs.cache
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDRanges\obj\Debug\net6.0\ANDRanges.AssemblyInfo.cs
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDRanges\obj\Debug\net6.0\ANDRanges.csproj.CoreCompileInputs.cache
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDRanges\obj\Debug\net6.0\ANDRanges.dll
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDRanges\obj\Debug\net6.0\refint\ANDRanges.dll
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDRanges\obj\Debug\net6.0\ANDRanges.pdb
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDRanges\obj\Debug\net6.0\ANDRanges.genruntimeconfig.cache
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDRanges\obj\Debug\net6.0\ref\ANDRanges.dll

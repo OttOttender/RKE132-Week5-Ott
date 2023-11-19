@@ -1,0 +1,14 @@
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\OROperator\bin\Debug\net6.0\OROperator.exe
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\OROperator\bin\Debug\net6.0\OROperator.deps.json
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\OROperator\bin\Debug\net6.0\OROperator.runtimeconfig.json
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\OROperator\bin\Debug\net6.0\OROperator.dll
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\OROperator\bin\Debug\net6.0\OROperator.pdb
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\OROperator\obj\Debug\net6.0\OROperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\OROperator\obj\Debug\net6.0\OROperator.AssemblyInfoInputs.cache
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\OROperator\obj\Debug\net6.0\OROperator.AssemblyInfo.cs
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\OROperator\obj\Debug\net6.0\OROperator.csproj.CoreCompileInputs.cache
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\OROperator\obj\Debug\net6.0\OROperator.dll
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\OROperator\obj\Debug\net6.0\refint\OROperator.dll
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\OROperator\obj\Debug\net6.0\OROperator.pdb
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\OROperator\obj\Debug\net6.0\OROperator.genruntimeconfig.cache
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\OROperator\obj\Debug\net6.0\ref\OROperator.dll

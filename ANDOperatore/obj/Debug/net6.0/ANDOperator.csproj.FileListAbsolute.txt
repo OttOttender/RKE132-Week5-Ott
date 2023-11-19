@@ -1,0 +1,14 @@
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDOperatore\bin\Debug\net6.0\ANDOperator.exe
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDOperatore\bin\Debug\net6.0\ANDOperator.deps.json
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDOperatore\bin\Debug\net6.0\ANDOperator.runtimeconfig.json
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDOperatore\bin\Debug\net6.0\ANDOperator.dll
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDOperatore\bin\Debug\net6.0\ANDOperator.pdb
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDOperatore\obj\Debug\net6.0\ANDOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDOperatore\obj\Debug\net6.0\ANDOperator.AssemblyInfoInputs.cache
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDOperatore\obj\Debug\net6.0\ANDOperator.AssemblyInfo.cs
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDOperatore\obj\Debug\net6.0\ANDOperator.csproj.CoreCompileInputs.cache
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDOperatore\obj\Debug\net6.0\ANDOperator.dll
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDOperatore\obj\Debug\net6.0\refint\ANDOperator.dll
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDOperatore\obj\Debug\net6.0\ANDOperator.pdb
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDOperatore\obj\Debug\net6.0\ANDOperator.genruntimeconfig.cache
+D:\UNI\Visual projects\Week5\Week5LogicalOperators\ANDOperatore\obj\Debug\net6.0\ref\ANDOperator.dll
